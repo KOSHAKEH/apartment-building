@@ -1,0 +1,468 @@
+﻿  Apartment.cpp
+  dz05.cpp
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(20,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(31,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(46,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(58,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(61,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(76,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,28): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(15,57): error C2039: "residents": не является членом "Apartment".
+  (компиляция исходного файла "Apartment.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(9,7):
+       см. объявление "Apartment"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(15,41): error C2614: Apartment: недопустимая инициализация члена: "residents" не является базовым классом или членом
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(21,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(21,27): error C2039: "residents": не является членом "Apartment".
+  (компиляция исходного файла "Apartment.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(9,7):
+       см. объявление "Apartment"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(28,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,32): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,51): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,25): error C2660: remove: функция не принимает 2 аргументов
+  (компиляция исходного файла "Apartment.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(369,26):
+       см. объявление "remove"
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,25):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,76): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(36,13): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(37,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(37,55): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(40,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,38): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,30): error C2530: human: ссылки должны быть инициализированы
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,30): error C3531: human: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,36): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,47): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(43,17): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(45,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(45,21): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(50,16): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(54,16): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "Apartment.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(20,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(31,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(46,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(58,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(61,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(76,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,28): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(15,57): error C2039: "residents": не является членом "Apartment".
+  (компиляция исходного файла "dz05.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(9,7):
+       см. объявление "Apartment"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(15,41): error C2614: Apartment: недопустимая инициализация члена: "residents" не является базовым классом или членом
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(21,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(21,27): error C2039: "residents": не является членом "Apartment".
+  (компиляция исходного файла "dz05.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(9,7):
+       см. объявление "Apartment"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(28,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,32): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,51): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,25): error C2660: remove: функция не принимает 2 аргументов
+  (компиляция исходного файла "dz05.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(369,26):
+       см. объявление "remove"
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,25):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,76): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(36,13): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(37,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(37,55): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(40,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,38): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,30): error C2530: human: ссылки должны быть инициализированы
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,30): error C3531: human: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,36): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,47): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(43,17): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(45,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(45,21): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(50,16): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(54,16): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(11,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(11,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(11,33): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(14,50): error C2039: "apartments": не является членом "House".
+  (компиляция исходного файла "dz05.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\House.h(9,7):
+       см. объявление "House"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(14,33): error C2614: House: недопустимая инициализация члена: "apartments" не является базовым классом или членом
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(20,9): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(20,28): error C2039: "apartments": не является членом "House".
+  (компиляция исходного файла "dz05.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\House.h(9,7):
+       см. объявление "House"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(27,9): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(31,13): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(32,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(32,43): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(35,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(35,56): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(36,36): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(37,17): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(38,17): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(44,16): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(48,16): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "dz05.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\dz05.cpp(51,27): error C2662: void Apartment::removeResident(Human &): невозможно преобразовать указатель "this" из "const Apartment" в "Apartment &"
+      C:\Users\Kosh\source\repos\dz05\dz05\dz05.cpp(51,11):
+      В результате преобразования теряются квалификаторы
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(31,10):
+       см. объявление "Apartment::removeResident"
+      C:\Users\Kosh\source\repos\dz05\dz05\dz05.cpp(51,27):
+      при попытке сопоставить список аргументов "(Human)"
+  
+  House.cpp
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(20,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(31,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(46,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(58,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(61,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(76,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(11,28): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(15,57): error C2039: "residents": не является членом "Apartment".
+  (компиляция исходного файла "House.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(9,7):
+       см. объявление "Apartment"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(15,41): error C2614: Apartment: недопустимая инициализация члена: "residents" не является базовым классом или членом
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(21,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(21,27): error C2039: "residents": не является членом "Apartment".
+  (компиляция исходного файла "House.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(9,7):
+       см. объявление "Apartment"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(28,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,9): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,32): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,51): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,25): error C2660: remove: функция не принимает 2 аргументов
+  (компиляция исходного файла "House.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(369,26):
+       см. объявление "remove"
+      C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,25):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(32,76): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(36,13): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(37,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(37,55): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(40,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,38): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,30): error C2530: human: ссылки должны быть инициализированы
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,30): error C3531: human: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,36): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(41,47): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(43,17): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(45,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(45,21): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(50,16): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Apartment.h(54,16): error C2065: residents: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(11,11): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(11,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(11,33): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(14,50): error C2039: "apartments": не является членом "House".
+  (компиляция исходного файла "House.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\House.h(9,7):
+       см. объявление "House"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(14,33): error C2614: House: недопустимая инициализация члена: "apartments" не является базовым классом или членом
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(20,9): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(20,28): error C2039: "apartments": не является членом "House".
+  (компиляция исходного файла "House.cpp")
+      C:\Users\Kosh\source\repos\dz05\dz05\House.h(9,7):
+       см. объявление "House"
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(27,9): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(31,13): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(32,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(32,43): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(35,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(35,56): error C2065: endl: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(36,36): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(37,17): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(38,17): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(44,16): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\House.h(48,16): error C2065: apartments: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+  Human.cpp
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(20,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Human.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(31,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Human.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(46,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Human.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(58,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Human.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(61,13): error C2065: cout: необъявленный идентификатор
+  (компиляция исходного файла "Human.cpp")
+  
+C:\Users\Kosh\source\repos\dz05\dz05\Human.h(76,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "Human.cpp")
+  
+  Создание кода...
